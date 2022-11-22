@@ -13,6 +13,8 @@
   <img align="center" title="docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" title="bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" title="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img align="center" title="bootstrap" height="30" width="40" src="https://avatars.githubusercontent.com/u/13810373?s=280&v=4" />
+  
 </div>
 
 <div align="center">
