@@ -3,7 +3,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelM-DEv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelM-DEv&layout=compact&langs_count=7&theme=dracula"/>
 </div> -->
-  
+<div align="center"><br>
+  <a href="https://rafaelmdev-blog.vercel.app/" target="__blank"> Portfolio / Blog </a> 
+</div>
+
 <div align="center"><br>
   <img align="center" title="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="htm5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
