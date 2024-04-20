@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <h2>Meu Priemeiro jogo feito com Vue.JS</h2>
+  <h2>Meu Primeiro jogo feito com Vue.JS</h2>
   <a href="https://spaceclicker.com.br/space" target="__blank">SPACE CLICKER</a><br>
   <div>
   <img src="https://user-images.githubusercontent.com/81872713/120901073-f0febc00-c60e-11eb-9090-3a08df0684f8.gif" />
