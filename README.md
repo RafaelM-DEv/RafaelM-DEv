@@ -1,10 +1,6 @@
-<!-- <div align="center">
-  <a href="https://github.com/RafaelM-DEv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelM-DEv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelM-DEv&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
+
 <div align="center"><br>
-  <a href="https://rafaelmdev-blog.vercel.app/" target="__blank"> Portfolio / Blog </a> 
+  <a href="https://rafaelmdev-blog.vercel.app/" target="__blank"> Meu Portfolio / Blog </a> 
 </div>
 
 <div align="center"><br>
@@ -20,9 +16,6 @@
 </div>
 
 <div align="center">
-  <h2>Meu Primeiro jogo feito com Vue.JS</h2>
+  <h2>Meu Primeiro jogo feito com Vue</h2>
   <a href="https://spaceclicker.com.br/space" target="__blank">SPACE CLICKER</a><br>
-  <div>
-  <img src="https://user-images.githubusercontent.com/81872713/120901073-f0febc00-c60e-11eb-9090-3a08df0684f8.gif" />
-   </div
-</div>    
+</div> 
