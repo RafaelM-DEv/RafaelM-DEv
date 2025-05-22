@@ -37,5 +37,3 @@
   <p><strong>Jogo idle clicker criado com Vue.js e Nuxt.js.</strong></p>
 </div>
 
-[![Cena 3D Interativa](https://i.imgur.com/seu-preview.png)](https://my.spline.design/suacena)
-
