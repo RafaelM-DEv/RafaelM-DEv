@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Rafael 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer+JavaScript;Vue.js+%7C+Nuxt+%7C+Node.js;Apaixonado+por+tecnologia+e+inovação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer+JavaScript;Vue.js+%7C+Nuxt+%7C+Node.js;Tecnologia+e+inovação" alt="Typing SVG" />
 </p>
 
 <p align="center">
